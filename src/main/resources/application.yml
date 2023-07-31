@@ -1,0 +1,8 @@
+chatgpt:
+  api-key: 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
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/TEST_DB?useSSL=false&characterEncoding=UTF-8&serverTimezone=UTC&allowPublicKeyRetrieval=true
+    username: test_user
+    password: admin
+    driver-class-name: com.mysql.cj.jdbc.Driver
